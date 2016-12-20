@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/techjini/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_5c27bc6d48b6c505b1864e4785446f382be6c18d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b94723b6d2231c80f128668e28e8c05d26233ce3">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70e2028443b1454e2fe7d9c16a5aeb1b78b473f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_4f2d0bc866b405feaf17c402e56846d3c8c4804f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_b9cbf597e1f7ce76f4e67e69b069b2433f026f95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_8f89df968cb7cda6a18469cdac4f353402980b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.3.0_ee3e9627bcdbb1907959f26258df3003e11bc229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5f8bc0103fbee91b613ec0184937b435bc0cd1cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_d272109572dec569b2ad2fa71c2a80b6677c1fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_31e08fbf372dccef8c9e86ad5b123525376084de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f2fa1db90c482c55a8815caaa081d09726604230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b633aaa27ca5f675f8cf5693d0eb964fb936316c">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7a736126c3758f066b97bef9b6f6f722f90487d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb2d07b8b057b02b136e7289a0f33f3d835e6eef">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46ae016565163f8b664d373e0817a3e2bf8c2b76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_5cf63b531242f6692daa53c5c91833c231c4720e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_706997b0485b00326ac8c8b06c5d96a71b05c6c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_f7d621dfcaed04969e2b7bce7b659ea14491ca86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_7563c3d2e105dad65120ed4987001dcb7ad3cab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.3.0_e07751bce5158b7abce1006cf5b5e942b8b6f4ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_8e73e5a40dab2ad315fb9b9d460d81681e424455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_b627b7d722e7914915fb97b78eb7900323fa5cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_5ef0d481e1d16093c6ba5200722b862d8d9b1f1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_575bbe308a624c72f40465773cf99f19004fb738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_a152419ea3c69c621cb38dc656d5e6bcf46089cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_21fa2d411e653e895a7492e4de0ee5083c4e038d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b99bd08cc460c6caac9a9b6d1fbd3983c304f748">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9d11a6dfa3af029ed0802dc956120e773fe5ba70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_e2a157300c3a6d151e3faf9282215075e2b1cced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_7d671358f42c1628d976da609a37786247e9371a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_f4983b2c60d57a9c0679ce4777cbdd82305cf86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_9df88cb81601ca2c2b92266e5394d37f685ec744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_391c34a3d26988426dcc56e690ae91abbabcd158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Downloads/XyzReader-master/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/techjini/Downloads/XyzReader-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_b045c205cdc58cb615c4bf2af7c5db903a99eff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_84492610bfa16d5f9a011b1364beb657756f5249/classes.dex" />
+    </item>
+
+</items>

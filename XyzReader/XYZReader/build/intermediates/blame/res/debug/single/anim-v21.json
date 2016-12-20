@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
