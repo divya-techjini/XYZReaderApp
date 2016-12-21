@@ -188,12 +188,12 @@
         "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/src/main/res/layout/activity_article_detail.xml"
     },
     {
-        "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
