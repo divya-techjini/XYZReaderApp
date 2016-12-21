@@ -1,0 +1,7 @@
+#Wed Dec 21 10:19:13 IST 2016
+base.0=/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7a736126c3758f066b97bef9b6f6f722f90487d8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70e2028443b1454e2fe7d9c16a5aeb1b78b473f5/classes.dex
+base.1=/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70e2028443b1454e2fe7d9c16a5aeb1b78b473f5
+file.0=/home/techjini/Projects/udacity/XYZReaderApp/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7a736126c3758f066b97bef9b6f6f722f90487d8/classes.dex

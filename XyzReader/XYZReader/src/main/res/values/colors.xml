@@ -28,4 +28,5 @@
     <color name="colorAccent">#3F51B5</color>
     <color name="color_363830">#363830</color>
     <color name="black">#6000</color>
+    <color name="color_white">#ffffff</color>
 </resources>
